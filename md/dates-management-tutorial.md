@@ -1,4 +1,4 @@
-# How to work with dates in process forms and BDM
+# How to work with dates in forms and BDM
 
 Currently (until versions 7.4.x), only date selection is supported natively in the UI Designer date picker widget. So this page will only focus on date management (not date and time).
 
