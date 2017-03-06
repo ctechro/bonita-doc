@@ -74,7 +74,7 @@ a new REST connector and important technology updates.
 * BS-15851	Delete a page does not delete the metadata file
 * BS-15873	HTTP status code 500 returned when using a non existing username or wrong password
 * BS-16027	Adding two widgets with assets does not refresh asset list
-* BS-16031	BDM.find => Exception if element has a CHILD
+* BS-16031	BDM.find() fails with Exception if element has a CHILD
 * BS-16106	bpm/archivedCase return error 500 instead of 404 if the case doesn't exist
 * BS-16145	WildFly bonita-start.bat failed if JAVA_HOME is set with a path including spaces
 * BS-16161	The user is not warned that the session will be closed when the BDM is deployed
